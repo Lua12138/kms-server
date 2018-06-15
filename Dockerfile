@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM python:2.7.15-alpine
 
 WORKDIR /home/
 EXPOSE 1688
